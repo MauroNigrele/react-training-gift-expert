@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for GifItem Component should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <h4>
+       
+      Google Page
+       
+    </h4>
+    <img
+      alt="Google Page"
+      src="https://www.google.com/"
+    />
+  </div>
+</div>
+`;
